@@ -80,24 +80,9 @@ I'm a cybersecurity enthusiast with a strong foundation in **Linux security audi
 
 ---
 
-## 🎓 Academic & Scholarship Goals
-- Applying for **Master’s in Cybersecurity**  
-- Target universities:  
-  - **Robert Gordon University (RGU)**  
-  - **University of Houston (Graduate Assistant track)**  
-- Interested in *Cybersecurity research + teaching*  
-
----
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
 ## 📫 Contact Me
-- **LinkedIn:** https://linkedin.com/in/YOURNAME  
-- **GitHub:** https://github.com/YOURUSERNAME  
-- **Email:** YOUR@EMAIL.COM  
+- **LinkedIn:** www.linkedin.com/in/kwabena-a-4b0148221
+- **GitHub:** https://github.com/Khobi505
+- **Email:** kwabena.at505@gmail.com
 
 ---
