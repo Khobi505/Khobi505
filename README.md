@@ -13,13 +13,7 @@ I'm a cybersecurity enthusiast with a strong foundation in **Linux security audi
   **"Framework for Security Auditing in Linux: Detecting and Mitigating Privilege Escalation Vulnerabilities."**
 
 - 🏢 **Compliance & Information Security**  
-  National Service at **STL** as a **Compliance Associate**, applying ISO 27001:2022 controls, document management, and quality assurance processes.
-
-- 🧑‍🏫 **Teaching & Mentorship**  
-  - Led group study sessions in **Python, HTML, CSS & JavaScript**  
-  - Taught ICT in **Sandy School**, **Rochma JHS**, and **West African SHS**  
-  - Former **Financial Secretary** for COMPSA  
-  - Helped **found the Cybersecurity Club (UGCC)**
+  As a **Compliance Associate**, applying ISO 27001:2022 controls, document management, and quality assurance processes.
 
 ---
 
