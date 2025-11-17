@@ -57,9 +57,6 @@ I'm a cybersecurity enthusiast with a strong foundation in **Linux security audi
 - Built detection rules & dashboards  
 - Threat modeling & log analysis  
 
-### 🔹 **Custom SELinux Policies**  
-- Policy 1: Control File Access for Specific Daemons  
-- Policy 2: Restrict Network Access Based on Process Type  
 
 ### 🔹 **NC (Netcat) Labs**  
 - Practicing scanning, port listening, reverse shells and file transfers  
